@@ -1,5 +1,3 @@
-# Following is a project by Abhinandan Katoch enrolled in the Python and Cyber Security Bootcamp by Shape AI.
-
 import requests
 import os
 from datetime import datetime
